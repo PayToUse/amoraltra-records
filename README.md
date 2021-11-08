@@ -1,2 +1,2 @@
 # amoraltra-records
-Releases and Hotfixes of this pack
+For minecraft bedrock only (Android, iOS, Windows 10, Xbox, Playstation, and Nintendo Switch)
